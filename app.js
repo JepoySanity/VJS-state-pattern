@@ -15,10 +15,10 @@ const homeState = function (page) {
   document.querySelector("#heading").textContent = null;
   document.querySelector("#content").innerHTML = `
   <div class="jumbotron">
-  <h1 class="display-4">Hello, world!</h1>
-  <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <h1 class="display-4">Learn State Pattern!</h1>
+  <p class="lead">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt laudantium consectetur et nemo aspernatur eos nisi possimus harum labore nulla sit quas recusandae neque, eius maiores totam voluptates, architecto ipsam!</p>
   <hr class="my-4">
-  <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
+  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. </p>
   <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
   </div>
   `;
